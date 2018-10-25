@@ -17,11 +17,11 @@
     "gcm"
   ],
   "bugs": {
-    "url": "https://github.com/zo0r/react-native-push-notification/issues"
+    "url": "https://github.com/sourcetoad/react-native-push-notification/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:zo0r/react-native-push-notification.git"
+    "url": "git+ssh://git@github.com:sourcetoad/react-native-push-notification.git"
   },
   "peerDependencies": {
     "react-native": ">=0.33"
