@@ -27,7 +27,7 @@
     "react-native": ">=0.33"
   },
   "dependencies": {
-    "react-native-PushNotificationIOS": "git+https://git@github.com/sourcetoad/react-native-PushNotificationIOS.git#f35308b30f3ca70e0e4f178b23642b62ae08576a",
+    "react-native-PushNotificationIOS": "git+https://git@github.com/sourcetoad/react-native-PushNotificationIOS.git#f35308b30f3ca70e0e4f178b23642b62ae08576a"
   },
   "rnpm": {
     "android": {
